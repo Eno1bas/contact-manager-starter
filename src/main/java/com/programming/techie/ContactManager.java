@@ -16,6 +16,7 @@ public class ContactManager {
     }
 
     public Collection<Contact> getAllContacts() {
+
         return contactList.values();
     }
 
